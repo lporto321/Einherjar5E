@@ -10,7 +10,7 @@ The only part that relies on connecting online is the use of FontAwesome, which 
 A default Character Sheet has been made to show how this form is meant to be used.  This includes a 'saveSheet.json', 'character.jpeg', and 'symbol.jpeg'. 
 
 #### Credits:
-This project was forked from [here](https://github.com/Chee32/5e-Character-Sheet). Credit goes to Chee32 for the JQuery which remains largely unchanged.
+Credit goes to Chee32 for the JQuery which remains largely unchanged. Modern adaptation and full new approach for the norse setting was entirely done by myself.
 
 ## Things to know when using this sheet.
 ### How to:
